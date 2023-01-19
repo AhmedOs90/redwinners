@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>288631304060-qcpe3k4c8hl78hu3fbgm8lg7ovhjj6aa.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.288631304060-qcpe3k4c8hl78hu3fbgm8lg7ovhjj6aa</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>288631304060-2f4iu62mohg2s2v6gscglsgrbk985b4m.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBkye7kUw5fUk6qSC0ExAzHhuIEETuoBNU</string>
+	<key>GCM_SENDER_ID</key>
+	<string>288631304060</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.availabilityeg.redwinners.ios</string>
+	<key>PROJECT_ID</key>
+	<string>availability-b12af</string>
+	<key>STORAGE_BUCKET</key>
+	<string>availability-b12af.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:288631304060:ios:4c806102e13e8bba5e3ef9</string>
+	<key>DATABASE_URL</key>
+	<string>https://availability-b12af-default-rtdb.firebaseio.com</string>
+</dict>
+</plist>

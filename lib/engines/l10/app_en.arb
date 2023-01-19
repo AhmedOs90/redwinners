@@ -1,0 +1,863 @@
+{
+    "language":"العربية",
+    "@language":{
+    "description":"English"
+    },
+    "offers":"Offers",
+    "@Offers":{
+        "description":"English"
+    },
+    "launches": "Launches",
+    "@Launches":{
+        "description":"English"
+    },
+    "browse": "Browse",
+    "@Browse":{
+        "description":"English"
+    },
+    "callScheme": "Call Scheme",
+    "@CallScheme":{
+        "description":"English"
+    },
+    "request": "Request",
+    "@Request":{
+        "description":"English"
+    },
+    "settings":"Settings",
+    "@Settings":{
+        "description":"English"
+    },
+    "logout": "Logout",
+    "@Logout":{
+        "description":"English"
+    },
+    "manageUsers":"Manage Users",
+    "@ManageUsers":{
+        "description":"English"
+    },
+    "currentOffers":"Current Offers",
+    "@CurrentOffers":{
+        "description":"English"
+    },
+    "upcomingLaunches":"Upcoming Launches",
+    "@UpcomingLaunches":{
+        "description":"English"
+    },
+    "exit": "Exit redwinners?",
+    "@exit":{
+        "description":"English"
+    },
+    "doYouWantExit": "Do you want to exit redwinners?",
+    "@doYouWantExit":{
+        "description":"English"
+    },
+    "yes": "Yes",
+    "@yes":{
+        "description":"English"
+    },
+    "no": "No",
+    "@no":{
+        "description":"English"
+    },
+    "offerEndsAt": "Offer ends at",
+    "@offerEndsAt":{
+        "description":"English"
+    },
+    "location": "Location",
+    "@location":{
+        "description":"English"
+    },
+    "newRelease": "New Release",
+    "@newRelease":{
+        "description":"English"
+    },
+    "launch": "Launch",
+    "@launch":{
+        "description":"English"
+    },
+    "soon": "soon",
+    "@soon":{
+        "description":"English"
+    },
+    "comingin": "coming in",
+    "@comingin":{
+        "description":"English"
+    },
+    "days": "days",
+    "@days":{
+        "description":"English"
+    },
+    "day": "day",
+    "@day":{
+        "description":"English"
+    },
+    "eoi": "EOI",
+    "@eoi":{
+        "description":"English"
+    },
+    "launchDate": "Launch Date",
+    "@launchDate":{
+        "description":"English"
+    },
+    "types": "types",
+    "@types":{
+        "description":"English"
+    },
+    "whatAreYouLookingFor": "What are you looking for?",
+    "@whatAreYouLookingFor":{
+        "description":"English"
+    },
+    "whereAreYouLooking": "Where are you looking?",
+    "@whereAreYouLooking":{
+        "description":"English"
+    },
+    "howManyRooms": "How many rooms?",
+    "@howManyRooms":{
+        "description":"English"
+    },
+    "whenDoYouWantToReceiveYourUnit": "When do you want to receive your unit?",
+    "@whenDoYouWantToReceiveYourUnit":{
+        "description":"English"
+    },
+    "areYouLookingForTTorS": "Are you Looking for a Town house, twin House, or Stand Alone?",
+    "@areYouLookingForTTorS":{
+        "description":"English"
+    },
+    "whatAverageArea": "What is the average area you are looking for",
+    "@WhatAverageArea":{
+        "description":"English"
+    },
+    "whenReceiveUnit":"when do you want to receive your unit?",
+    "@whenReceiveUnit":{
+        "description":"English"
+    },
+    "doWantOutdoorArea": "Do you want an out door area?",
+    "@doWantOutdoorArea":{
+        "description":"English"
+    },
+    "whichFloor": "which floor do you prefer?",
+    "@whichFloor":{
+        "description":"English"
+    },
+    "whatYourBudget": "Do you have a budget in you mind?",
+    "@whatYourBudget":{
+        "description":"English"
+    },
+    "whatAveragePriceMeter": "What is your average price per meter",
+    "@whatAveragePriceMeter":{
+        "description":"English"
+    },
+    "any": "All",
+    "@any":{
+        "description":"English"
+    },
+    "installments": "Installments",
+    "@installments":{
+        "description":"English"
+    },
+    "apartments" : "Apartments and Duplexes",
+    "@apartments":{
+        "description":"English"
+    },
+    "sublocation": "Sub Location",
+    "@sublocation":{
+        "description":"English"
+    },
+    "cash" : "cash",
+    "@cash":{
+        "description":"English"
+    },
+    "totalPrice":"total Price",
+    "@totalPrice":{
+        "description":"English"
+    },
+    "totalCashPrice":"total Cash Price",
+    "@totalCashPrice":{
+        "description":"English"
+    },
+    "from": "from",
+    "@from":{
+        "description":"English"
+    },
+    "to": "to",
+    "@to":{
+        "description":"English"
+    },
+    "yearsOfInstallments": "Years of Installments",
+    "@yearsOfInstallments":{
+        "description":"English"
+    },
+    "builtUpArea":"Built up Area",
+    "@builtUpArea":{
+        "description":"English"
+    },
+    "roomsCount": "Rooms Count",
+    "@roomsCount":{
+        "description":"English"
+    },
+    "floor": "Floor",
+    "@floor":{
+        "description":"English"
+    },
+    "deliver": "Delivery",
+    "@deliver":{
+        "description":"English"
+    },
+    "finish": "Finish",
+    "@finish":{
+        "description":"English"
+    },
+    "unitType": "Unit Type",
+    "@unitType":{
+        "description":"English"
+    },
+    "priceMeter": "Price Per Meter",
+    "@priceMeter":{
+        "description":"English"
+    },
+    "land": "Land Area",
+    "@land":{
+        "description":"English"
+    },
+    "villaType": "Villa Type",
+    "@villaType":{
+        "description":"English"
+    },
+    "outdoorArea": "Outdoor Area",
+    "@outdoorArea":{
+        "description":"English"
+    },
+    "showResult": "Show Results",
+    "@showResult":{
+        "description":"English"
+    },
+    "selectLocation": "Select Location",
+    "@selectLocation":{
+        "description":"English"
+    },
+    "browseByProject": "Browse By Project",
+    "@browseByProject":{
+        "description":"English"
+    },
+    "browseByDeveloper": "Browse By Developer",
+    "@browseByDeveloper":{
+        "description":"English"
+    },
+    "area" : "Area",
+    "@area":{
+        "description":"English"
+    },
+    "startFrom" : "Start from",
+    "@startFrom":{
+        "description":"English"
+    },
+    "perMeter": "per meter",
+    "@perMeter":{
+        "description":"English"
+    },
+    "description": "Description",
+    "@description":{
+        "description":"English"
+    },
+    "facilities": "Facilities",
+    "@facilities":{
+        "description":"English"
+    },
+    "generalDetails": "General Details",
+    "@generalDetails":{
+        "description":"English"
+    },
+    "contractor": "Contractor",
+    "@contractor":{
+        "description":"English"
+    },
+    "engineerCons": "Engineering Consultant",
+    "@engineerCons":{
+        "description":"English"
+    },
+    "loadPercent": "Load Percent",
+    "@loadPercent":{
+        "description":"English"
+    },
+    "masterPlan": "Master Plan",
+    "@masterPlan":{
+        "description":"English"
+    },
+    "financialDetails": "Financial Details",
+    "@financialDetails":{
+        "description":"English"
+    },
+    "garagePrice": "Garage Price",
+    "@garagePrice":{
+        "description":"English"
+    },
+    "clubPrice": "Club Price",
+    "@clubPrice":{
+        "description":"English"
+    },
+    "maintenance": "Maintenance",
+    "@maintenance":{
+        "description":"English"
+    },
+    "cashDiscount": "Cash Discount",
+    "@cashDiscount":{
+        "description":"English"
+    },
+    "firstDelivery": "First Delivery",
+    "@firstDelivery":{
+        "description":"English"
+    },
+    "pricesStartFrom" : "Prices Start From ",
+    "@pricesStartFrom":{
+        "description":"English"
+    },
+    "perMeterAndInst": " per meter and instalments are up to ",
+    "@perMeterAndInst":{
+        "description":"English"
+    },
+    "andInst": " and instalments are up to ",
+    "@andInst":{
+        "description":"English"
+    },
+    "paymentPlan": "Payment Plan",
+    "@paymentPlan":{
+        "description":"English"
+    },
+    "currentOffer": "Current Offer",
+    "@currentOffer":{
+        "description":"English"
+    },
+    "download": "Downloads",
+    "@download":{
+        "description":"English"
+    },
+    "brochure": "Brochure",
+    "@brochure":{
+        "description":"English"
+    },
+    "inventoryShit": "Inventory Sheet",
+    "@inventoryShit":{
+        "description":"English"
+    },
+    "notAvailable": "Not Available",
+    "@notAvailable":{
+        "description":"English"
+    },
+    "downloadBrochure": "Download Brochure",
+    "@downloadBrochure":{
+        "description":"English"
+    },
+    "downloadInventory": "Download Inventory",
+    "@downloadInventory":{
+        "description":"English"
+    },
+    "forMoreDetails": "for more details you can call ",
+    "@forMoreDetails":{
+        "description":"English"
+    },
+    "on":" ",
+    "@on":{
+        "description":"English"
+    },
+    "or": " or ",
+    "@or":{
+        "description":"English"
+    },
+    "lastUpdate": "Last Updated ",
+    "@lastUpdate":{
+        "description":"English"
+    },
+    "showredwinners": "Show Availability",
+    "@showredwinners":{
+        "description":"English"
+    },
+    "le": "L.E",
+    "@le":{
+        "description":"English"
+    },
+    "price": "Price",
+    "@price":{
+        "description":"English"
+    },
+    "cashPrice": "Cash Price",
+    "@cashPrice":{
+        "description":"English"
+    },
+    "showMasterPlan": "Show Master Plan",
+    "@showMasterPlan":{
+        "description":"English"
+    },
+    "show": "Show",
+    "@show":{
+        "description":"English"
+    },
+    "onMap": "on map",
+    "@onMap":{
+        "description":"English"
+    },
+    "showMore": "Show more",
+    "@showMore":{
+        "description":"English"
+    },
+    "showLess": "Show less",
+    "@showLess":{
+        "description":"English"
+    },
+    "years": " years",
+    "@years":{
+        "description":"English"
+    },
+    "avaInThis":"redwinners in this project is rough redwinners that may be different than what is actually provided by the company",
+    "@avaInThis":{
+        "description":"English"
+    },
+    "garden": "Garden Area",
+    "@gardenArea":{
+        "description":"English"
+    },
+    "roof": "Roof",
+    "@roof":{
+        "description":"English"
+    },
+    "linkDevice": "Link Device",
+    "@linkDevice":{
+        "description":"English"
+    },
+    "users": "Users",
+    "@users":{
+        "description":"English"
+    },
+    "edit": "Edit",
+    "@edit":{
+        "description":"English"
+    },
+    "reset": "Reset",
+    "@reset":{
+        "description":"English"
+    },
+    "saveChanges": "Save Changes",
+    "@saveChanges":{
+        "description":"English"
+    },
+    "changePassword": "Change Your Password",
+    "@changePassword":{
+        "description":"English"
+    },
+    "cancelSubscription": "Cancel Subscription",
+    "@cancelSubscription":{
+        "description":"English"
+    },
+    "privacyPolicy": "Privacy Policy",
+    "@privacyPolicy":{
+        "description":"English"
+    },
+    "userName": "Username: ",
+    "@userName":{
+        "description":"English"
+    },
+    "password": "Password: ",
+    "@password":{
+        "description":"English"
+    },
+    "userDetails": "User Details",
+    "@userDetails":{
+        "description":"English"
+    },
+    "youCanSign": "You can sign with ",
+    "@youCanSign":{
+        "description":"English"
+    },
+    "byCalling": " by calling ",
+    "@byCalling":{
+        "description":"English"
+    },
+    "showProjects": "Show Projects",
+    "@showProjects":{
+        "description":"English"
+    },
+    "searchProjects": "Search Projects",
+    "@searchProjects":{
+        "description":"English"
+    },
+    "searchDevelopers": "Search Developers",
+    "@searchDevelopers":{
+        "description":"English"
+    },
+    "successful": "Successful",
+    "@successful":{
+        "description":"English"
+    },
+    "userReset": "User Reset Successful",
+    "@userReset":{
+        "description":"English"
+    },
+    "usernameTooShort": "Username is too Short",
+    "@usernameTooShort":{
+        "description":"English"
+    },
+    "makeUserChar": "Make sure username is 5 characters or more",
+    "@makeUserChar":{
+        "description":"English"
+    },
+    "newPasswordTooShort":"New Password is too short",
+    "@newPasswordTooShort":{
+        "description":"English"
+    },
+    "makePassChar":"Make sure your new password is 5 characters or more",
+    "@makePassChar":{
+        "description":"English"
+    },
+    "userAlreadyExist":"UserName Already Exist",
+    "@userAlreadyExist":{
+        "description":"English"
+    },
+    "someoneSameUserName":"Someone in your account has the same username, use another username",
+    "@someoneSameUserName":{
+        "description":"English"
+    },
+    "emptyField": "Empty Field",
+    "@emptyField":{
+        "description":"English"
+    },
+    "entrAllFields":"Make sure to enter all your fields",
+    "@entrAllFields":{
+        "description":"English"
+    },
+    "curentPassIncor":"Current Password is incorrect",
+    "@curentPassIncor":{
+        "description":"English"
+    },
+    "entrPassCore":"Please enter your current password correctly",
+    "@entrPassCore":{
+        "description":"English"
+    },
+    "notChangedPass":"Not Changed Password",
+    "@notChangedPass":{
+        "description":"English"
+    },
+    "youNotChangedPass":"You haven't changed your password, please use a new password",
+    "@youNotChangedPass":{
+        "description":"English"
+    },
+    "ok": "Ok",
+    "@ok":{
+        "description":"English"
+    },
+    "newPassTooShort":"New Password is too short",
+    "@newPassTooShort":{
+        "description":"English"
+    },
+    "makSureNewPassIs5":"Make sure your new password is 5 characters or more",
+    "@makSureNewPassIs5":{
+        "description":"English"
+    },
+    "passNotMatch":"Passwords doesn't match",
+    "@passNotMatch":{
+        "description":"English"
+    },
+    "makeSureNewPassTwice":"Make sure you entered your new password twice correctly",
+    "@makeSureNewPassTwice":{
+        "description":"English"
+    },
+    "changesSaved":"changes Saved Successfully",
+    "@changesSaved":{
+        "description":"English"
+    },
+    "notFound": "Not Found",
+    "@notFound":{
+        "description":"English"
+    },
+    "ops":"Ops! Page is under maintenance",
+    "@ops":{
+        "description":"English"
+    },
+    "back": "Back",
+    "@Back":{
+        "description":"English"
+    },
+    "companyHint":"Company Name",
+    "@companyHint":{
+        "description":"English"
+    },
+    "userNameHint":"Username",
+    "@userNameHint":{
+        "description":"English"
+    },
+    "passwordHint": "password",
+    "@passwordHint":{
+        "description":"English"
+    },
+    "signUp":"Sign Up",
+    "@signUp":{
+        "description":"English"
+    },
+    "rememberMe": "Remember me",
+    "@rememberMe":{
+        "description":"English"
+    },
+    "logIn": "Log In",
+    "@logIn":{
+        "description":"English"
+    },
+    "verifying": "Verifying",
+    "@verifying":{
+        "description":"English"
+    },
+    "verify": "Verify",
+    "@verify":{
+        "description":"English"
+    },
+    "sendingCodeTo":"Sending Code to ",
+    "@sendingCodeTo":{
+        "description":"English"
+    },
+    "resendCodeIn":"resend code in ",
+    "@resendCodeIn":{
+        "description":"English"
+    },
+    "resendCode":"resend code ",
+    "@resendCode":{
+        "description":"English"
+    },
+    "phoneVerified": "Phone Verified",
+    "@phoneVerified":{
+        "description":"English"
+    },
+    "continueToCreateAccount":"Continue to create account",
+    "@continueToCreateAccount":{
+        "description":"English"
+    },
+    "continu": "Continue..",
+    "@continue":{
+        "description":"English"
+    },
+    "continueToHome": "Continue to Home",
+    "@continueToHome":{
+        "description":"English"
+    },
+    "problemEncountered": "Problem Encountered",
+    "@problemEncountered":{
+        "description":"English"
+    },
+    "pleaseTryAgainLater":"Please Try Again later",
+    "@pleaseTryAgainLater":{
+        "description":"English"
+    },
+    "invalidOTP": "Invalid OTP",
+    "@invalidOTP":{
+        "description":"English"
+    },
+    "pleaseTryAgain": "Please Try Again",
+    "@pleaseTryAgain":{
+        "description":"English"
+    },
+    "confirm": "Confirm",
+    "@confirm":{
+        "description":"English"
+    },
+    "dailyUpdatedInventories": "Daily Updated Inventories",
+    "@dailyUpdatedInventories":{
+        "description":"English"
+    },
+    "dailyUpdatedOffersandLaunches": "Daily Updated Offers and Launches",
+    "@dailyUpdatedOffersandLaunches":{
+        "description":"English"
+    },
+    "allDevelopersHistoriesandContactNumbers": "All Developers Histories and Contact Numbers",
+    "@allDevelopersHistoriesandContactNumbers":{
+        "description":"English"
+    },
+    "toknowmoreaboutCompaniesOffers": "To know more about Companies Offers, ",
+    "@toknowmoreaboutCompaniesOffers":{
+        "description":"English"
+    },
+    "clickheretosenduswhatsappmessage": "click here to send us whatsapp message.",
+    "@clickheretosenduswhatsappmessage":{
+        "description":"English"
+    },
+    "mostValuable": "Most Valuable",
+    "@mostValuable":{
+        "description":"English"
+    },
+    "enterValidNumber": "Enter Valid Number",
+    "@enterValidNumber":{
+        "description":"English"
+    },
+    "youneedtoenteravalidphonenumber": "You need to enter a valid phone number",
+    "@youneedtoenteravalidphonenumber":{
+        "description":"English"
+    },
+    "verifyPhoneNumber": "Verify Phone Number",
+    "@verifyPhoneNumber":{
+        "description":"English"
+    },
+    "backtoLogIn": "Back to Log In",
+    "@backtoLogIn":{
+        "description":"English"
+    },
+    "lE": " L.E",
+    "@lE":{
+        "description":"English"
+    },
+    "somethingWentWrong": "Something went wrong",
+    "@somethingWentWrong":{
+        "description":"English"
+    },
+    "noResultsFound": "No Results Found",
+    "@noResultsFound":{
+        "description":"English"
+    },
+    "deviceLinkedSuccessfully": "Device Linked Successfully",
+    "@deviceLinkedSuccessfully":{
+        "description":"English"
+    },
+    "failedLoggingin": "Failed Logging in",
+    "@failedLoggingin":{
+        "description":"English"
+    },
+    "checkyourinternetconnection": "Check your internet connection and try again later",
+    "@checkyourinternetconnection":{
+        "description":"English"
+    },
+    "error": "Error",
+    "@error":{
+        "description":"English"
+    },
+    "cantOpenBrowser": "Can't Open Browser",
+    "@cantOpenBrowser":{
+        "description":"English"
+    },
+    "youareonyoufreetrial":
+    "you are on your free trial, you can't cancel your subscription now",
+    "@youareonyoufreetrial":{
+        "description":"English"
+    },
+    "youhaveacompanyaccount": "You have a company account, please contact your admin",
+    "@youhaveacompanyaccount":{
+        "description":"English"
+    },
+    "warning": "Warning",
+    "@warning":{
+        "description":"English"
+    },
+    "ifyouquitenow": "If you quite now, you will need to verify your phone again",
+    "@ifyouquitenow":{
+        "description":"English"
+    },
+    "createAccount": "Create Account",
+    "@createAccount":{
+        "description":"English"
+    },
+    "typeFreelancerif": "type 'Freelancer' if you are a freelancer",
+    "@typeFreelancerif":{
+        "description":"English"
+    },
+    "yourCompanyName": "Your Company Name",
+    "@yourCompanyName":{
+        "description":"English"
+    },
+    "yourName": "Your Name",
+    "@yourName":{
+        "description":"English"
+    },
+    "userNameusedforLogin":"Username used for Login",
+    "@userNameusedforLogin":{
+        "description":"English"
+    },
+    "repeatPassword": "Repeat Password",
+    "@repeatPassword":{
+        "description":"English"
+    },
+    "requestAccess": "Request Access",
+    "@requestAccess":{
+        "description":"English"
+    },
+    "quite": "Quite",
+    "@quite":{
+        "description":"English"
+    },
+    "accountcreated": "Account created",
+    "@accountcreated":{
+        "description":"English"
+    },
+    "someoneinyouraccounthasthsameusername": "Someone in your account has the same username, use another username.",
+    "@someoneinyouraccounthasthsameusername":{
+        "description":"English"
+    },
+    "oldPassword": "Old Password",
+    "@oldPassword":{
+        "description":"English"
+    },
+    "newPassword": "New Password",
+    "@newPassword":{
+        "description":"English"
+    },
+    "savingchanges": "Saving changes",
+    "@savingchanges":{
+        "description":"English"
+    },
+    "invalidArguments": "Invalid Arguments",
+    "@invalidArguments":{
+        "description":"English"
+    },
+    "thestartpriceshouldbelower": "The start price should be lower than end price",
+    "@thestartpriceshouldbelower":{
+        "description":"English"
+    },
+    "specifyTypeandLocation": "Specify Type and Location",
+    "@specifyTypeandLocation":{
+        "description":"English"
+    },
+    "youneedtochoose": "You need to choose a type and location.",
+    "@youneedtochoose":{
+        "description":"English"
+    },
+    "noPlansFound": "No Plans Found",
+    "@noPlansFound":{
+        "description":"English"
+    },
+    "redwinnersMember": "redwinners Member",
+    "@redwinnersMember":{
+        "description":"English"
+    },
+    "enjoyallofourservices":  "Enjoy all of our services by becoming a member of",
+    "@enjoyallofourservices":{
+        "description":"English"
+    },
+    "iD": "ID: ",
+    "@iD":{
+        "description":"English"
+    },
+    "m2": " m2",
+    "@m2":{
+        "description":"English"
+    },
+    "unitId": "Unit Id: ",
+    "@unitId":{
+        "description":"English"
+    },
+    "resetting": "Resetting",
+    "@resetting":{
+        "description":"English"
+    },
+    "mobileScanner": "Scanning",
+    "@mobileScanner":{
+        "description":"English"
+    },
+    "immediat": "Immediately",
+    "@immediat":{
+        "description":"English"
+    },
+    "creating": "Creating..",
+    "@creating":{
+        "description":"English"
+    },
+    "shareProject": "Share Project",
+    "@shareProject":{
+        "description":"English"
+    },
+    "linkCopied": "Link Copied",
+    "@linkCopied":{
+        "description":"English"
+    }
+}

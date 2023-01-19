@@ -1,0 +1,99 @@
+{
+  "project_info": {
+    "project_number": "288631304060",
+    "firebase_url": "https://availability-b12af-default-rtdb.firebaseio.com",
+    "project_id": "availability-b12af",
+    "storage_bucket": "availability-b12af.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:288631304060:android:3a7c4d14eb5aaec05e3ef9",
+        "android_client_info": {
+          "package_name": "com.availabilityeg.availability"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "288631304060-2f4iu62mohg2s2v6gscglsgrbk985b4m.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.availabilityeg.availability",
+            "certificate_hash": "f79a91c01470f387288cd798ba3157d5747f315d"
+          }
+        },
+        {
+          "client_id": "288631304060-ifl660au8s9h40c0cpfndacff4ck6de3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.availabilityeg.availability",
+            "certificate_hash": "593a15c7d9a466dfe638ca24dbb20c4fff671816"
+          }
+        },
+        {
+          "client_id": "288631304060-6orbnjapg4l1sil08v1g6fulk270dmj6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBmAV4DI2FFf62sVtnQrQuvD4klFVQp4-c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "288631304060-6orbnjapg4l1sil08v1g6fulk270dmj6.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "288631304060-7sca0u9ostld5ifnrpsjcauk63lr4ilt.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.availabilityeg.availability.ios"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:288631304060:android:4fb971cbb322d1285e3ef9",
+        "android_client_info": {
+          "package_name": "com.availabilityeg.redwinners.ios"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "288631304060-6orbnjapg4l1sil08v1g6fulk270dmj6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBmAV4DI2FFf62sVtnQrQuvD4klFVQp4-c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "288631304060-6orbnjapg4l1sil08v1g6fulk270dmj6.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "288631304060-7sca0u9ostld5ifnrpsjcauk63lr4ilt.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.availabilityeg.availability.ios"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
