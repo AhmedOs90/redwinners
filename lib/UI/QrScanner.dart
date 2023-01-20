@@ -34,50 +34,57 @@ int _start = 15;
           allowDuplicates: false,
           onDetect: (barcode, args) {
             if (barcode.rawValue == null) {
-            } else {
+            }
+            else {
               Prevalent.ProgressDialogue(context, loc!.logIn);
               startTimer();
-
               final String code = barcode.rawValue!;
-              FirebaseFirestore.instance.collection("PCs").doc(code).snapshots().listen(
-                      (event) {
-                    Map<String, dynamic> data2 = event.data() as Map<String, dynamic>;
-                    if(data2["Status"]){
-                      _timer.cancel();
-                      showDialog<String>(
-                          barrierDismissible: false,
-                          context: context,
-                          builder: (BuildContext context) => AlertDialog(
-                            title: Text(loc!.successful),
-                            content: Text(
-                                loc!.deviceLinkedSuccessfully),
-                            actions: <Widget>[
-                              TextButton(
-                                onPressed: () async => {
-                                  Navigator.pushAndRemoveUntil(context, MaterialPageRoute(builder:
-                                      (context) => Home()), (route) => false)
-                                },
-                                child: Text(loc!.ok),
-                              ),
-
-                            ],
-                          ));
-                    }
-                  });
               key = getKey(code);
               Map<String, dynamic> upload = new Map<String, dynamic>();
+              upload = Prevalent.currentOnlineUser.toMap();
               final colRef = FirebaseFirestore.instance.collection("PCs");
-              colRef.doc(code).set(upload).then((value) =>
+              colRef.doc(code).update({
+                "user":upload,
+                "key":key,
+                "phone":Prevalent.currentOnlineUser.phone
+              }).then((value) =>
               {
-
-
-
+                startlistening(code)
               });
             }
           }),
     );
   }
-  String getKey(String cod){
+startlistening(code){
+  var loc = AppLocalizations.of(context);
+  FirebaseFirestore.instance.collection("PCs").doc(code).snapshots().listen(
+          (event) {
+        Map<String, dynamic> data2 = event.data() as Map<String, dynamic>;
+        if(data2["Status"]){
+          _timer.cancel();
+          showDialog<String>(
+              barrierDismissible: false,
+              context: context,
+              builder: (BuildContext context) => AlertDialog(
+                title: Text(loc!.successful),
+                content: Text(
+                    loc!.deviceLinkedSuccessfully),
+                actions: <Widget>[
+                  TextButton(
+                    onPressed: () async => {
+                      Navigator.pushAndRemoveUntil(context, MaterialPageRoute(builder:
+                          (context) => Home()), (route) => false)
+                    },
+                    child: Text(loc!.ok),
+                  ),
+
+                ],
+              ));
+        }
+      });
+}
+
+String getKey(String cod){
 
   String toBeInt = cod.substring(0,3) + cod.substring(50,52) + cod.substring(100,103) + cod.substring(150,154) + cod.substring(180,182);
   int num = int.parse(toBeInt);

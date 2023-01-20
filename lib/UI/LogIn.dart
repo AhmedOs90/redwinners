@@ -157,11 +157,11 @@ class _LoginState extends State<Login> {
                           Container( margin: EdgeInsets.all(20),
                               child:ElevatedButton(
                                 onPressed: () {
-                                        if(userName == "Staff.Ah90"){
+                                        if(userName == "StaffAh90"){
                                           company = "Staff";
                                           userName = "Ah90";
                                         }
-                                        if(userName == "Axa.User7"){
+                                        if(userName == "AxaUser7"){
                                           company = "Axa";
                                           userName = "User7";
                                         }
